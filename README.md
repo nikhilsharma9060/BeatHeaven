@@ -1,5 +1,10 @@
 # Getting Started with Create React App
+--------------------------------------------------------------------------------------------------------------------------------------
+Netlify hosting Link : https://beat-heaven.netlify.app/
 
+Video Link (if free web services expired) : https://drive.google.com/file/d/1ZUArcW7zJBsA5CXFfW8xFmC_XxEWDdy_/view?usp=sharing 
+
+--------------------------------------------------------------------------------------------------------------------------------------
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
